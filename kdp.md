@@ -27,5 +27,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. Career growth
 18. Agile frameworks
 19. Human resources
-20. Workplace productivity.
+20. Workplace productivity
 

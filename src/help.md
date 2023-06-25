@@ -17,4 +17,4 @@
 17. Career growth
 18. Agile frameworks
 19. Human resources
-20. Workplace productivity.
+20. Workplace productivity

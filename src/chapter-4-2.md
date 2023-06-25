@@ -1,5 +1,4 @@
-Chapter 4: Applying Agile Coaching to Employee Development: Developing Personalized Learning Plans
-==================================================================================================
+# Developing Personalized Learning Plans
 
 In order to effectively support employee growth and development through agile coaching, it's important to develop personalized learning plans that align with individual needs and goals. In this chapter, we will explore strategies for developing these plans, including identifying learning objectives, selecting appropriate learning activities, and measuring progress.
 

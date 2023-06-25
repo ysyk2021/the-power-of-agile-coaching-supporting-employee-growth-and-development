@@ -1,5 +1,4 @@
-Chapter 3: Core Competencies in Agile Coaching: Active Listening and Empathy
-============================================================================
+# Active Listening and Empathy
 
 Agile coaching requires a specific set of skills and competencies in order to be effective. In this chapter, we will explore two more core competencies in agile coaching: active listening and empathy.
 

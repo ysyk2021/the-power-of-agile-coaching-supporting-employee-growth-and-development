@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Coaching with Organizational Culture: Aligning Agile Coaching with Business Goals
-==============================================================================================================
+# Aligning Agile Coaching with Business Goals
 
 Agile coaching is most effective when it is integrated with the existing organizational culture and aligned with business goals. In this chapter, we will explore how leaders can integrate agile coaching with their organization's culture and align coaching efforts with business goals.
 

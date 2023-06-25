@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful Agile Coaching: Real-life Examples of Companies and Leaders who have Successfully Supported Employee Growth and Development with Agile Coaching
-=====================================================================================================================================================================================
+# Real-life Examples of Companies and Leaders who have Successfully Supported Employee Growth and Development with Agile Coaching
 
 Agile coaching is a powerful methodology for supporting employee growth and development within an organization. In this chapter, we will explore real-life examples of companies and leaders who have successfully supported employee growth and development with agile coaching.
 

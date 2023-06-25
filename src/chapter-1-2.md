@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Overview of the Book
-=============================================
+# Overview of the Book
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this book, we will explore the power of agile coaching and how it can be used to support employee growth and development.
 

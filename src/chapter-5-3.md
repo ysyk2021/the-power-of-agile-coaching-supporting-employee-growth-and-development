@@ -1,5 +1,4 @@
-Chapter 5: Using Tools and Techniques for Agile Coaching: Applying Agile Methodologies and Tools
-================================================================================================
+# Applying Agile Methodologies and Tools
 
 Agile coaching requires the use of various tools and techniques to support employee growth and development and drive success within an organization. In this chapter, we will explore some of the key tools and methodologies used in agile coaching.
 

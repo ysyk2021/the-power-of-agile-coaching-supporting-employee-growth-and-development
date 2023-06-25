@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Coaching: Benefits of Agile Coaching
-===================================================================
+# Benefits of Agile Coaching
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore the benefits of agile coaching.
 

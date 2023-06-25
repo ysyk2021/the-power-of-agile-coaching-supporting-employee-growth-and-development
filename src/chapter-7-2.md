@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Coaching: Strategies for Overcoming Challenges
-=======================================================================================
+# Strategies for Overcoming Challenges
 
 Implementing agile coaching can be a powerful way to support employee growth and development, but it can also face obstacles that must be overcome. In this chapter, we will explore some common obstacles to agile coaching and offer strategies for overcoming them.
 

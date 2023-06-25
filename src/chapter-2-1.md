@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Coaching: Definition of Agile Coaching
-=====================================================================
+# Definition of Agile Coaching
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. It involves working with individuals or teams to help them identify their goals, develop strategies for achieving those goals, and provide ongoing support and feedback to help them succeed.
 

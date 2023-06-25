@@ -1,5 +1,4 @@
-Chapter 3: Core Competencies in Agile Coaching: Powerful Questioning and Feedback
-=================================================================================
+# Powerful Questioning and Feedback
 
 Agile coaching requires a specific set of skills and competencies in order to be effective. In this chapter, we will explore two core competencies in agile coaching: powerful questioning and feedback.
 

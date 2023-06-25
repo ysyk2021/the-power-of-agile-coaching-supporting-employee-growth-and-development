@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Recap of Key Points
-===========================================
+# Recap of Key Points
 
 Agile coaching is a powerful methodology for supporting employee growth and development within an organization. In this book, we have explored the key principles of agile coaching, its benefits, and strategies for implementing it effectively. In this final chapter, we will recap the key points of the book.
 

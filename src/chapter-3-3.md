@@ -1,5 +1,4 @@
-Chapter 3: Core Competencies in Agile Coaching: Creating Awareness and Responsibility
-=====================================================================================
+# Creating Awareness and Responsibility
 
 Agile coaching requires a specific set of skills and competencies in order to be effective. In this chapter, we will explore two more core competencies in agile coaching: creating awareness and responsibility.
 

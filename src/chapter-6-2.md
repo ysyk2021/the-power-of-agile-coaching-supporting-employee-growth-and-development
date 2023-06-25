@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Coaching: Qualitative and Quantitative Methods for Evaluation
-===================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore both qualitative and quantitative methods for evaluating the success of agile coaching efforts.
 
