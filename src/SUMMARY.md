@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Agile Coaching](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Agile Coaching](chapter-2.md)
   - [Definition of Agile Coaching](chapter-2-1.md)
   - [Benefits of Agile Coaching](chapter-2-2.md)
@@ -26,7 +25,6 @@
   - [Common Obstacles to Agile Coaching](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Agile Coaching](chapter-8.md)
-  - [Real-life Examples of Companies and Leaders who have Successfully Supported Employee Growth and Development with Agile Coaching](chapter-8-1.md)
 - [Chapter 9: Integrating Agile Coaching with Organizational Culture](chapter-9.md)
   - [Fostering a Culture of Learning and Continuous Improvement](chapter-9-1.md)
   - [Aligning Agile Coaching with Business Goals](chapter-9-2.md)
