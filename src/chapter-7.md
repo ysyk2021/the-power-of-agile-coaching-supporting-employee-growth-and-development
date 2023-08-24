@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Agile Coaching
-=================================================
 
 Agile coaching is a powerful methodology for supporting employee growth and development within an organization. However, implementing agile coaching can be challenging due to various obstacles that may arise. In this chapter, we will explore common obstacles to agile coaching and strategies for overcoming them.
 

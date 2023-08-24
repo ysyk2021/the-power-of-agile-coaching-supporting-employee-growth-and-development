@@ -1,4 +1,3 @@
-# Fostering a Culture of Learning and Continuous Improvement
 
 To truly support employee growth and development through agile coaching, it's important to integrate these practices with the overall organizational culture. In this chapter, we will explore strategies for fostering a culture of learning and continuous improvement that supports both individual and organizational growth.
 

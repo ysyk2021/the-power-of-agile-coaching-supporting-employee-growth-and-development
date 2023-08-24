@@ -1,5 +1,3 @@
-Chapter 3: Core Competencies in Agile Coaching
-==============================================
 
 Agile coaching requires a specific set of skills and competencies in order to be effective. In this chapter, we will explore three core competencies in agile coaching: active listening and empathy, powerful questioning and feedback, and creating awareness and responsibility.
 

@@ -1,4 +1,3 @@
-# Common Obstacles to Agile Coaching
 
 Implementing agile coaching can face obstacles that must be overcome to ensure success and support employee growth and development. In this chapter, we will explore some common obstacles to agile coaching.
 

@@ -1,5 +1,3 @@
-Chapter 5: Using Tools and Techniques for Agile Coaching
-========================================================
 
 To effectively support employee growth and development through agile coaching, it's important to use a variety of tools and techniques. In this chapter, we will explore strategies for conducting effective one-on-one meetings, facilitating group coaching sessions, and applying agile methodologies and tools.
 

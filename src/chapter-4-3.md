@@ -1,4 +1,3 @@
-# Providing Ongoing Support and Motivation
 
 Effective agile coaching doesn't end with the creation of a development plan. To truly support employee growth and development, ongoing support and motivation are critical. In this chapter, we will explore strategies for providing ongoing support and motivation through regular check-ins, feedback, and recognition.
 

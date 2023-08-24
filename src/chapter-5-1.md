@@ -1,4 +1,3 @@
-# Conducting Effective One-on-One Meetings
 
 One-on-one meetings are an essential component of effective agile coaching. These meetings provide opportunities for coaches to build relationships with employees, discuss progress, and provide feedback and support. In this chapter, we will explore strategies for conducting effective one-on-one meetings, including setting goals, preparing for the meeting, and following up afterward.
 

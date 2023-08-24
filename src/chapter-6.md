@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Coaching
-==============================================
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore how to measure success in agile coaching.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 Measuring success in agile coaching is essential for driving continuous improvement and achieving organizational goals. By using key performance indicators (KPIs) and both qualitative and quantitative methods of evaluation, organizations can gain insights into the effectiveness of their coaching efforts and make data-driven decisions about how to optimize them. By leveraging these strategies effectively, organizations can support employee growth and development, drive success, and achieve their goals.
-
 

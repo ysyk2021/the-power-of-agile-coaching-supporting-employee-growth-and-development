@@ -1,4 +1,3 @@
-# Developing Agile Mindset as a Leader
 
 Agile coaching is a powerful methodology for supporting employee growth and development within an organization, but it must be integrated with the existing organizational culture to be effective. In this chapter, we will explore how leaders can develop an agile mindset and integrate agile coaching with their organization's culture.
 
@@ -35,5 +34,4 @@ Conclusion
 ----------
 
 Agile coaching is a powerful methodology for supporting employee growth and development within an organization, but it must be integrated with the existing organizational culture to be effective. By developing an agile mindset, fostering a culture of agility, and integrating agile coaching with organizational processes, leaders can drive continuous improvement and achieve their goals through this powerful methodology. By leveraging these strategies, organizations can support employee growth and development, drive success, and achieve their goals.
-
 

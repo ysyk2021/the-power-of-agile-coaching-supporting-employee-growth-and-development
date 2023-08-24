@@ -1,4 +1,3 @@
-# Key Performance Indicators (KPIs) for Measuring Success
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore key performance indicators (KPIs) that organizations can use to measure the success of their agile coaching efforts.
 

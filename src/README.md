@@ -1,4 +1,3 @@
-# Introduction
 
 "The Power of Agile Coaching: Supporting Employee Growth and Development" is a comprehensive guide to using agile coaching techniques to promote continuous learning, growth, and development in the workplace. Written by experienced coaches with deep expertise in agile methodologies, this book provides a practical framework for supporting employee growth and development through personalized learning plans, ongoing feedback and support, and a focus on continuous improvement.
 

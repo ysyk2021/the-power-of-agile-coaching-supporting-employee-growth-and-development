@@ -1,4 +1,3 @@
-# Importance of Agile Coaching
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore the importance of agile coaching and its potential impact on organizations.
 
@@ -21,5 +20,4 @@ Conclusion
 ----------
 
 Overall, the importance of agile coaching cannot be overstated. By supporting employee growth and development, fostering a culture of continuous improvement, and improving team dynamics, agile coaching can drive success and growth within an organization. This book will provide readers with the tools and strategies they need to leverage this powerful methodology and achieve their goals.
-
 

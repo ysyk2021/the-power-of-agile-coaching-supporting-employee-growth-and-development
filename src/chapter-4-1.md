@@ -1,4 +1,3 @@
-# Assessing Individual Needs and Goals
 
 In order to effectively support employee growth and development through agile coaching, it's important to first assess individual needs and goals. In this chapter, we will explore strategies for identifying areas of improvement and creating personalized development plans that align with an organization's overall objectives.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Coaching
-=======================================
 
 Agile coaching is a methodology for supporting employee growth and development within an organization. In this chapter, we will explore the definition of agile coaching, the benefits of agile coaching, and common myths about agile coaching.
 

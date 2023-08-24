@@ -1,4 +1,3 @@
-# Facilitating Group Coaching Sessions
 
 Group coaching sessions are a powerful tool for supporting employee growth and development within an organization. In this chapter, we will explore some key strategies for facilitating effective group coaching sessions in an agile coaching context.
 

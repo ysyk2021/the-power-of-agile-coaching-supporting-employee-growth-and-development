@@ -1,5 +1,3 @@
-Chapter 9: Integrating Agile Coaching with Organizational Culture
-=================================================================
 
 Agile coaching can be a powerful tool for supporting employee growth and development, but it must be integrated with organizational culture to be effective. In this chapter, we will explore strategies for integrating agile coaching with organizational culture.
 

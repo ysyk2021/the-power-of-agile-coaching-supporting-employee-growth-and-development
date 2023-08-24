@@ -1,4 +1,3 @@
-# Powerful Questioning and Feedback
 
 In the realm of agile coaching, powerful questioning and feedback are fundamental tools that facilitate self-reflection, growth, and development. This chapter delves into the significance of powerful questioning and effective feedback in agile coaching and provides practical strategies for utilizing these techniques to inspire individuals and teams.
 

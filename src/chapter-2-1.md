@@ -1,4 +1,3 @@
-# Definition of Agile Coaching
 
 Agile coaching plays a pivotal role in supporting employee growth and development within organizations that embrace an agile mindset. In this chapter, we will explore the definition of agile coaching and its significance in fostering agility and continuous improvement.
 

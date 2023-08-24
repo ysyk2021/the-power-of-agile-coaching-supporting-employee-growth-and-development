@@ -1,5 +1,3 @@
-Chapter 4: Applying Agile Coaching to Employee Development
-==========================================================
 
 Agile coaching is a powerful tool for supporting employee growth and development. In this chapter, we will explore how agile coaching can be applied to employee development through assessing individual needs and goals, developing personalized learning plans, and providing ongoing support and motivation.
 

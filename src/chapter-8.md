@@ -1,4 +1,3 @@
-# Chapter 8: Case Studies of Successful Agile Coaching
 
 In this chapter, we will explore real-life case studies that demonstrate the power of agile coaching in supporting employee growth and development. These examples highlight successful transformations, improved team dynamics, and enhanced productivity achieved through effective agile coaching practices.
 

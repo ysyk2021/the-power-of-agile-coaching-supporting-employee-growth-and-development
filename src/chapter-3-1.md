@@ -1,4 +1,3 @@
-# Active Listening and Empathy
 
 In the world of agile coaching, active listening and empathy are essential skills that contribute to building strong relationships, fostering trust, and facilitating effective communication. This chapter explores the importance of active listening and empathy in agile coaching and provides practical strategies for developing these skills.
 

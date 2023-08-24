@@ -1,4 +1,3 @@
-# Creating Awareness and Responsibility
 
 In the realm of agile coaching, creating awareness and responsibility is a crucial aspect that fosters growth, learning, and development among individuals and teams. This chapter delves into the significance of creating awareness and responsibility in agile coaching and provides practical strategies for facilitating these elements to empower employees.
 
