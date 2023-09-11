@@ -1,5 +1,4 @@
-Chapter 7: Applying Agile Methodologies and Tools
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the practical application of agile methodologies and tools. Agile methodologies, such as Scrum, Kanban, and Lean, provide a framework for managing projects, fostering collaboration, and delivering value. By understanding and effectively utilizing these methodologies and associated tools, organizations can enhance productivity, improve team dynamics, and drive successful outcomes.
 

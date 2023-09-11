@@ -1,5 +1,4 @@
-Chapter 8: Facilitating Group Coaching Sessions
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the art of facilitating group coaching sessions. Group coaching is a powerful approach that enables collective growth, collaboration, and learning within teams or across departments. By understanding and mastering the skills required to facilitate effective group coaching sessions, agile coaches can unlock the full potential of individuals and teams, fostering a culture of continuous improvement and achieving remarkable results.
 

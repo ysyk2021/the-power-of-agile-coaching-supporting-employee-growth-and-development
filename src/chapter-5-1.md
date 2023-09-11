@@ -1,5 +1,4 @@
-Chapter 6: Conducting Effective One-on-One Meetings
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the importance of conducting effective one-on-one meetings as a key aspect of agile coaching. One-on-one meetings provide a valuable opportunity for coaches to establish a strong connection with individuals, support their growth, and address specific needs and challenges. By mastering the art of conducting impactful one-on-one meetings, coaches can foster trust, facilitate collaboration, and empower individuals to reach their full potential.
 

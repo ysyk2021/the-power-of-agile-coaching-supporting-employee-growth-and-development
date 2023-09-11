@@ -1,5 +1,4 @@
-Chapter 8: Key Performance Indicators (KPIs) for Measuring Success
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will delve into the importance of defining key performance indicators (KPIs) to measure the success of agile coaching initiatives. KPIs provide quantitative and tangible metrics that enable coaches to assess the impact of coaching on individual growth, team dynamics, and overall organizational success. By establishing clear KPIs, coaches can track progress, make data-driven decisions, and continuously enhance the effectiveness of their coaching efforts.
 

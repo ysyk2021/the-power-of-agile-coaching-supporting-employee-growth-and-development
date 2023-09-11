@@ -1,5 +1,4 @@
-Chapter 8: Aligning Agile Coaching with Business Goals
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the importance of aligning agile coaching efforts with business goals. Agile coaches play a critical role in driving organizational success by bridging the gap between agile methodologies and strategic objectives. By aligning their coaching practices with business goals, coaches can ensure that teams and individuals are focused on delivering value and achieving outcomes that directly contribute to the organization's overall success.
 

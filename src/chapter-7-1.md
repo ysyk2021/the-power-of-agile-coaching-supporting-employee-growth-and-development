@@ -1,5 +1,4 @@
-Chapter 10: Common Obstacles to Agile Coaching
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will address common obstacles that can hinder the effectiveness of agile coaching. While agile coaching offers numerous benefits, it is not without its challenges. By understanding and proactively addressing these obstacles, organizations can overcome barriers to successful agile coaching implementation and maximize the potential for growth, collaboration, and agility.
 

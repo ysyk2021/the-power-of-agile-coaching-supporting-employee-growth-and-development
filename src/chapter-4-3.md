@@ -1,5 +1,4 @@
-Chapter 10: Providing Ongoing Support and Motivation
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the importance of providing ongoing support and motivation in agile coaching. Supporting individuals throughout their growth journey and keeping them motivated is crucial for sustained progress and success. Agile coaches play a vital role in ensuring that individuals receive the necessary guidance, encouragement, and resources to overcome challenges, stay on track, and reach their full potential.
 

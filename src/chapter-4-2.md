@@ -1,5 +1,4 @@
-Chapter 6: Developing Personalized Learning Plans
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the process of developing personalized learning plans as a crucial aspect of agile coaching. Personalized learning plans help individuals identify their unique learning needs, set meaningful goals, and design a roadmap for continuous growth and development. By tailoring learning experiences to individuals' specific aspirations, strengths, and areas for improvement, agile coaches can facilitate targeted skill acquisition, foster motivation, and enhance overall performance.
 

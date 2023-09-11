@@ -1,5 +1,4 @@
-Chapter 6: Qualitative and Quantitative Methods for Evaluation
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the importance of using qualitative and quantitative methods for evaluation. Agile coaching requires a comprehensive assessment of its effectiveness to ensure that it supports employee growth and development. By utilizing both qualitative and quantitative evaluation methods, coaches can gather valuable insights, measure impact, and make informed decisions about coaching strategies and interventions.
 

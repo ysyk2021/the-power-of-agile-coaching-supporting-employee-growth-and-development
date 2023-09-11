@@ -1,5 +1,4 @@
-Chapter 12: Strategies for Overcoming Challenges
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore strategies for overcoming common challenges encountered in agile coaching. Agile transformations can be complex and pose various obstacles along the way. By equipping agile coaches with effective strategies, organizations can navigate these challenges, strengthen their coaching practices, and foster a culture of continuous improvement and growth.
 

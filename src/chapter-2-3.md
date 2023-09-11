@@ -1,5 +1,4 @@
-Chapter 8: Common Myths About Agile Coaching
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will debunk common myths surrounding agile coaching. With the increasing popularity of agile methodologies, it is essential to clarify misconceptions that may hinder the understanding and effectiveness of agile coaching. By dispelling these myths, we can enhance the perception and value of agile coaching as a vital enabler for employee growth, team collaboration, and organizational success.
 

@@ -1,5 +1,4 @@
-Chapter 10: Fostering a Culture of Learning and Continuous Improvement
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the importance of fostering a culture of learning and continuous improvement within organizations. Agile coaching plays a vital role in nurturing an environment where individuals and teams are encouraged to embrace new ideas, experiment, and continuously grow. By promoting a culture of learning, agile coaches can drive innovation, enhance productivity, and empower employees to reach their full potential.
 

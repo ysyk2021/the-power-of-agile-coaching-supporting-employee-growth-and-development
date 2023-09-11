@@ -1,5 +1,4 @@
-Chapter 4: Assessing Individual Needs and Goals
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Power of Agile Coaching: Supporting Employee Growth and Development," we will explore the process of assessing individual needs and goals within the context of agile coaching. Effective coaching requires a deep understanding of each individual's unique requirements and aspirations. By conducting thorough assessments, coaches can tailor their approaches, interventions, and support to meet individual needs, fostering a more impactful and personalized coaching experience.
 
